@@ -102,3 +102,8 @@ Screenshots are located in the `/screenshots` folder and include:
 ---
 
 Thank you for reviewing this project! 🙏
+
+#scrennshot
+
+<img width="1202" height="578" alt="Screenshot 2025-07-25 095456" src="https://github.com/user-attachments/assets/0c2d3cae-8c11-4fce-ab0e-d8ad5936cff3" />
+
